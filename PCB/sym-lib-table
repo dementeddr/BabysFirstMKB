@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Seeeduino_XIAO)(type Legacy)(uri "C:/Users/rdbau/OneDrive/Documents/Projects/Baby's First Keeb/Seeeduino XIAO KICAD/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name LED)(type Legacy)(uri ${KIPRJMOD}/LED.lib)(options "")(descr ""))
+)
