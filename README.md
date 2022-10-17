@@ -1,5 +1,5 @@
 # Baby's First Mechanical Keybaord
-An RGB mechanical keyboard that consists of a single oversized key. It's a perfect first keyboard for a small child!
+An RGB mechanical keyboard that consists of a single oversized key. It's a perfect first keyboard for a small child! Plug it in to a computer and it will function as an ENTER key. Bonus Fun Mode: Plug it into a computer while holding the key down. Keep the key pressed until all four LEDs light up. Then put your cursor in a text box and see what happens.
 
 ### REPO CONTENTS
 - Arduino code 
